@@ -1,0 +1,7 @@
+C:\Users\Anthony Louis\source\repos\ATIVIDADE3\obj\Debug\ATIVIDADE3.csproj.AssemblyReference.cache
+C:\Users\Anthony Louis\source\repos\ATIVIDADE3\obj\Debug\ATIVIDADE3.csproj.CoreCompileInputs.cache
+C:\Users\Anthony Louis\source\repos\ATIVIDADE3\bin\Debug\ATIVIDADE3.exe.config
+C:\Users\Anthony Louis\source\repos\ATIVIDADE3\bin\Debug\ATIVIDADE3.exe
+C:\Users\Anthony Louis\source\repos\ATIVIDADE3\bin\Debug\ATIVIDADE3.pdb
+C:\Users\Anthony Louis\source\repos\ATIVIDADE3\obj\Debug\ATIVIDADE3.exe
+C:\Users\Anthony Louis\source\repos\ATIVIDADE3\obj\Debug\ATIVIDADE3.pdb

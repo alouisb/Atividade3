@@ -1,0 +1,14 @@
+C:\Users\Anthony Louis\source\repos\FACULDADE-QUALIDADE SOFT\ATIVIDADE 3.7\bin\Debug\net8.0\ATIVIDADE 3.7.exe
+C:\Users\Anthony Louis\source\repos\FACULDADE-QUALIDADE SOFT\ATIVIDADE 3.7\bin\Debug\net8.0\ATIVIDADE 3.7.deps.json
+C:\Users\Anthony Louis\source\repos\FACULDADE-QUALIDADE SOFT\ATIVIDADE 3.7\bin\Debug\net8.0\ATIVIDADE 3.7.runtimeconfig.json
+C:\Users\Anthony Louis\source\repos\FACULDADE-QUALIDADE SOFT\ATIVIDADE 3.7\bin\Debug\net8.0\ATIVIDADE 3.7.dll
+C:\Users\Anthony Louis\source\repos\FACULDADE-QUALIDADE SOFT\ATIVIDADE 3.7\bin\Debug\net8.0\ATIVIDADE 3.7.pdb
+C:\Users\Anthony Louis\source\repos\FACULDADE-QUALIDADE SOFT\ATIVIDADE 3.7\obj\Debug\net8.0\ATIVIDADE 3.7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anthony Louis\source\repos\FACULDADE-QUALIDADE SOFT\ATIVIDADE 3.7\obj\Debug\net8.0\ATIVIDADE 3.7.AssemblyInfoInputs.cache
+C:\Users\Anthony Louis\source\repos\FACULDADE-QUALIDADE SOFT\ATIVIDADE 3.7\obj\Debug\net8.0\ATIVIDADE 3.7.AssemblyInfo.cs
+C:\Users\Anthony Louis\source\repos\FACULDADE-QUALIDADE SOFT\ATIVIDADE 3.7\obj\Debug\net8.0\ATIVIDADE 3.7.csproj.CoreCompileInputs.cache
+C:\Users\Anthony Louis\source\repos\FACULDADE-QUALIDADE SOFT\ATIVIDADE 3.7\obj\Debug\net8.0\ATIVIDADE 3.7.dll
+C:\Users\Anthony Louis\source\repos\FACULDADE-QUALIDADE SOFT\ATIVIDADE 3.7\obj\Debug\net8.0\refint\ATIVIDADE 3.7.dll
+C:\Users\Anthony Louis\source\repos\FACULDADE-QUALIDADE SOFT\ATIVIDADE 3.7\obj\Debug\net8.0\ATIVIDADE 3.7.pdb
+C:\Users\Anthony Louis\source\repos\FACULDADE-QUALIDADE SOFT\ATIVIDADE 3.7\obj\Debug\net8.0\ATIVIDADE 3.7.genruntimeconfig.cache
+C:\Users\Anthony Louis\source\repos\FACULDADE-QUALIDADE SOFT\ATIVIDADE 3.7\obj\Debug\net8.0\ref\ATIVIDADE 3.7.dll

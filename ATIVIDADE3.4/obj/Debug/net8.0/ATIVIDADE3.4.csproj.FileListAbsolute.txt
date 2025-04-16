@@ -1,0 +1,14 @@
+C:\Users\Anthony Louis\source\repos\ATIVIDADE3.4\bin\Debug\net8.0\ATIVIDADE3.4.exe
+C:\Users\Anthony Louis\source\repos\ATIVIDADE3.4\bin\Debug\net8.0\ATIVIDADE3.4.deps.json
+C:\Users\Anthony Louis\source\repos\ATIVIDADE3.4\bin\Debug\net8.0\ATIVIDADE3.4.runtimeconfig.json
+C:\Users\Anthony Louis\source\repos\ATIVIDADE3.4\bin\Debug\net8.0\ATIVIDADE3.4.dll
+C:\Users\Anthony Louis\source\repos\ATIVIDADE3.4\bin\Debug\net8.0\ATIVIDADE3.4.pdb
+C:\Users\Anthony Louis\source\repos\ATIVIDADE3.4\obj\Debug\net8.0\ATIVIDADE3.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anthony Louis\source\repos\ATIVIDADE3.4\obj\Debug\net8.0\ATIVIDADE3.4.AssemblyInfoInputs.cache
+C:\Users\Anthony Louis\source\repos\ATIVIDADE3.4\obj\Debug\net8.0\ATIVIDADE3.4.AssemblyInfo.cs
+C:\Users\Anthony Louis\source\repos\ATIVIDADE3.4\obj\Debug\net8.0\ATIVIDADE3.4.csproj.CoreCompileInputs.cache
+C:\Users\Anthony Louis\source\repos\ATIVIDADE3.4\obj\Debug\net8.0\ATIVIDADE3.4.dll
+C:\Users\Anthony Louis\source\repos\ATIVIDADE3.4\obj\Debug\net8.0\refint\ATIVIDADE3.4.dll
+C:\Users\Anthony Louis\source\repos\ATIVIDADE3.4\obj\Debug\net8.0\ATIVIDADE3.4.pdb
+C:\Users\Anthony Louis\source\repos\ATIVIDADE3.4\obj\Debug\net8.0\ATIVIDADE3.4.genruntimeconfig.cache
+C:\Users\Anthony Louis\source\repos\ATIVIDADE3.4\obj\Debug\net8.0\ref\ATIVIDADE3.4.dll
